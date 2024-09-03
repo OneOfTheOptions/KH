@@ -7,7 +7,6 @@ einops==0.6.0
 diffusers==0.10.2
 pytorch-lightning==1.9.0
 bitsandbytes==0.41.3.post2
-tensorflow==2.15.0
 safetensors==0.4.1
 # gradio==3.16.2
 # altair==4.2.2
@@ -34,3 +33,5 @@ lycoris-lora==0.1.4
 .
 jax==0.4.23
 jaxlib==0.4.23
+tensorflow==2.18
+ml-dtypes==0.3.1
