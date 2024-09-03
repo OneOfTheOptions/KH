@@ -13,6 +13,8 @@ safetensors==0.4.1
 # easygui==0.98.3
 toml==0.10.2
 voluptuous==0.13.1
+tensorflow==2.18
+ml-dtypes==0.3.1
 # for BLIP captioning
 requests==2.32.3
 timm==0.6.12
@@ -33,5 +35,4 @@ lycoris-lora==0.1.4
 .
 jax==0.4.23
 jaxlib==0.4.23
-tensorflow==2.18
-ml-dtypes==0.3.1
+
